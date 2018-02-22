@@ -1,0 +1,9 @@
+javac login.java
+javac personinfo.java
+javac pinform.java
+javac conf.java
+javac canc.java
+javac addfd.java
+javac aboutus.java
+javac resfrm.java
+java login

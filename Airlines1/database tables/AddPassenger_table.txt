@@ -1,0 +1,9 @@
+create table Pinfor(
+Passenger_id varchar2(5),
+First_Name varchar2(8),
+Last_Name varchar2(5),
+DOB varchar2(10),
+Mob_no varchar2(10),
+Gender varchar2(2),
+E_mail varchar2(15),
+Nationality varchar2(8));

@@ -1,0 +1,9 @@
+create table Ticket(
+Passenger_name varchar2(10),
+Passenger_Id number(3),
+Flight_No varchar2(5),
+Class varchar2(5),
+Source varchar2(6),
+Destination varchar2(6),
+No_of_Seats varchar2(2),
+Total_Amount varchar2(8));
