@@ -5,7 +5,10 @@ Airlines Management Project using Java and Oracle
 
 
 Programming language- JAVA [jdk 1.8]
-Database           - ORACLE[11g]
+<br/>
+Database            - ORACLE[11g]
+<br/>
+Developer           - KESHAV KR JHA [keshavjha9217@gmail.com]
 *************************************
 Brief idea about the mehanism of this project-
 - Ticket Booking Aspirants need to first create their account.
